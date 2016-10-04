@@ -4,8 +4,9 @@
   "description": "Boilerplate Webpack application",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server",
     "build": "webpack",
-    "test": "echo \"I am a bad developer who does not test"
+    "test": "mocha"
   },
   "keywords": [
     "webpack",
