@@ -4,6 +4,7 @@
   "description": "Boilerplate Webpack application",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"I am a bad developer who does not test"
   },
   "keywords": [
